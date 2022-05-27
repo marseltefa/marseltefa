@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marseltefa
+- 👋 Hi, I’m Marsel
 - 👀 I’m a filmmaker + 2D/3D artist & some times a developer
 - 📫 You can reach me on twitter [@marseltefa](https://twitter.com/marseltefa) or at my website [tefa.al](https://tefa.al)
 
