@@ -7,15 +7,3 @@
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marseltefa)
 
 👋 Hi, I’m Marsel I’m a filmmaker, photographer, 2D/3D artist & some times a developer
-
-<br>
-
-## Office quote
-
-> {office_quote}
->
-> <p>{office_character}</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-<br>
