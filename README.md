@@ -1,5 +1,5 @@
 [![Marsel's GitHub Banner](./assets/GitHubHeader.png)](https://marseltefa.com)
-![](https://api.visitorbadge.io/api/VisitorHit?user=marseltefa&repo=marseltefa-visitors-badge&countColor=%ff0000)
+![](https://api.visitorbadge.io/api/VisitorHit?user=marseltefa&repo=marseltefa-visitors-badge&countColor=%00D22B2B)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/marseltefa)
 [![Instagram Badge](https://img.shields.io/badge/Photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marseltefa/)
