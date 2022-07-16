@@ -6,4 +6,4 @@
 [![Instagram Art Badge](https://img.shields.io/badge/2D/3D_Art-E44040?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/artbymarsel/)
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marseltefa)
 
-👋 Hi, I’m Marsel I’m a filmmaker, photographer, 2D/3D artist & some times a developer
+👋 Hi, I’m Marsel I’m a filmmaker, photographer, CG artist & some times a developer
