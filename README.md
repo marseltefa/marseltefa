@@ -1,7 +1,7 @@
 [![Marsel's GitHub Banner](./assets/GitHubHeader.png)](https://marseltefa.com)
 [![Visits Badge](https://api.visitorbadge.io/api/VisitorHit?user=marseltefa&repo=marseltefa-visitors-badge&countColor=#D2042D)](https://marseltefa.com)
 
-[![PlayStore Badge](https://img.shields.io/badge/PlayStore-green?style=for-the-badge&logo=google-play&logoColor=white)]([https://twitter.com/marseltefa](https://play.google.com/store/apps/developer?id=Marsel+Tefa))
+[![PlayStore Badge](https://img.shields.io/badge/PlayStore-green?style=for-the-badge&logo=google-play&logoColor=white)]([https://twitter.com/marseltefa](https://play.google.com/store/apps/developer?id=Marsel+Tefa)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/marseltefa)
 [![Instagram Badge](https://img.shields.io/badge/Photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marseltefa/)
 [![Instagram Art Badge](https://img.shields.io/badge/2D/3D_Art-E44040?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/artbymarsel/)
